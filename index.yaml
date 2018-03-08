@@ -2,11 +2,19 @@ apiVersion: v1
 entries:
   go-demo:
   - apiVersion: v1
-    created: 2018-03-08T08:54:54.598483-05:00
+    created: 2018-03-08T09:54:20.284604-05:00
+    description: go-demo
+    digest: cb31e19eaa8b92f4a684db01e6ee10a5811c817a16335ae41f9f6a46b9ff2766
+    name: go-demo
+    urls:
+    - go-demo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    created: 2018-03-08T09:54:20.284083-05:00
     description: go-demo
     digest: f9245778203c39908dd6f355e4d77ba4a3bd94faac05cc218367e4c1058582b2
     name: go-demo
     urls:
     - go-demo-0.1.0.tgz
     version: 0.1.0
-generated: 2018-03-08T08:54:54.597761-05:00
+generated: 2018-03-08T09:54:20.280709-05:00
